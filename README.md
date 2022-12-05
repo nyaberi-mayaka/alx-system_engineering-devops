@@ -1,1 +1,3 @@
-Shell basics and permissions
+Shell basics
+Shell permissions
+Shell Redirections
